@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<MallConfig>
+  <MallName>练摊街</MallName>
+  <EncryptKey>liantanjiekey</EncryptKey>
+  <Randomlib>123456789abcdefghjkmnpqrstuvwxy</Randomlib>
+</MallConfig>
